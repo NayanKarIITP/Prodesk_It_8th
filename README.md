@@ -1,4 +1,9 @@
 # Cine-Stream 
+# Live URL: https://prodesk-it-8th-zu1y.vercel.app/
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/fb76583a-ecd5-4f32-9e4d-b11d9ab7abb5" />
+
+<img width="1919" height="922" alt="image" src="https://github.com/user-attachments/assets/cdae4a72-2cbb-49af-acd4-5d54aaab922b" />
+
 An AI-powered movie discovery platform built with React, Tailwind CSS, and Google Gemini.
 
 ## Key Features
